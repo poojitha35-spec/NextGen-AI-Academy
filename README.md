@@ -26,3 +26,5 @@ This is a responsive educational website developed using HTML, CSS and JavaScrip
 Your Name - K.Poojitha
 
 MANTRA 2026 Summer School Assignment
+
+updated deployment
